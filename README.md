@@ -6,7 +6,7 @@ The Dataset used for the Cup was provided by Telefonica Germany. It contained in
 
 ## The Task
 
-Sometimes these network elements fail due to various reasons e.g Hardware failure, Fire, extreme weather,etc. While most of the failures happen without warning, Telefonica's experts believe that some unknown subset of the failures are preventable. Hence, the task was to predict possible outages in Telefonica’s mobile telephony and data network in the future. 
+Sometimes these network elements fail due to various reasons e.g Hardware failure, Fire, extreme weather,etc. While most of the failures happen without warning, Telefonica's experts believe that some unknown subset of the failures are preventable and would like us to predict possible outages in Telefonica’s mobile telephony and data network in the future. 
 
 ## Solution
 
